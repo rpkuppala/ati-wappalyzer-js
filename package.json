@@ -1,0 +1,14 @@
+{
+  "name": "ati-wappalyzer-js",
+  "version": "1.0.0",
+  "description": "wappalyzer for batic",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "wappalyzer": "^6.10.39",
+    "express": "^4.16.1"
+  }
+}
